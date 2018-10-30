@@ -13,7 +13,7 @@ namespace CoreWeb
     {
         public Startup(IConfiguration configuration)
         {
-            Console.WriteLine("this is dev");
+            Console.WriteLine("this is dev version 1.1");
             Configuration = configuration;
         }
 
